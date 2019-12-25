@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{389:function(e,t,n){"use strict";n.r(t);var o={name:"themeOne.vue",layout:"themeOneLayout",mounted:function(){this.$router.push("/theme-one/works")}},r=n(12),component=Object(r.a)(o,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,null,null);t.default=component.exports}}]);
